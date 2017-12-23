@@ -3,3 +3,4 @@
 # and open the template in the editor.
 
 puts "Hello World"
+puts "Hi"
